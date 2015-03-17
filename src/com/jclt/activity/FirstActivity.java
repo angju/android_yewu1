@@ -1,6 +1,8 @@
 package com.jclt.activity;
 
 
+import java.io.File;
+
 import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
